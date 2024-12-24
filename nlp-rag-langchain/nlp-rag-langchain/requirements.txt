@@ -1,0 +1,10 @@
+langchain
+langchain-community
+sentence-transformers
+transformers
+torch
+gradio==4.8.0
+chromadb
+huggingface-hub
+
+
